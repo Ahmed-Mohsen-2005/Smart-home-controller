@@ -1,0 +1,3 @@
+Username: AhmedMohsen	 Password: AhmedMohsen@123	Mode: parent mode
+Username: JanaAhmed	 Password: JanaAhmed@123	Mode: child mode
+Username: Mostafa	 Password: Mostafa@123	Mode: parent mode
