@@ -67,7 +67,7 @@ SmartHomeController/
 - Ensure `splash2.png` and `home.jpg` are in the same directory for proper UI rendering.
 
 ## 👨‍👩‍👧‍👦 Authors
-- Ahmed Mohsen
+- Ahmed Mohsen (Me)
 - [@Jana-Ahmed-20005](https://github.com/Jana-Ahmed-20005)
 - Mostafa Magdy
 - Developed as part of the university smart home simulation project.
