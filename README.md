@@ -70,4 +70,4 @@ SmartHomeController/
 - Ahmed Mohsen (Me)
 - [@Jana-Ahmed-20005](https://github.com/Jana-Ahmed-20005)
 - Mostafa Magdy
-- Developed as part of the university smart home simulation project.
+Developed as part of the university smart home simulation project.
